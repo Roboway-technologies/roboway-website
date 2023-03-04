@@ -1,22 +1,28 @@
-creating a way through robotics
-
-
-- what we do
-
-- background image
-- order 
-- products on board b2c,b2g
-
-- done proj
-- successful founder projects
-- customer reviews
-- signup for newsletter
-- get ready for revolution
-- footer
-
-
-
-
-
-- replace founders with " meet the team "
-- 
+### roboway-frontend
+#  dependencies: 
+-    @chakra-ui/icons: ^2.0.14,
+-    @chakra-ui/react: ^2.4.3,
+-    @emotion/react: ^11.10.5,
+-    @emotion/styled: ^11.10.5,
+-    @react-three/fiber: ^8.9.1,
+-    @testing-library/jest-dom: ^5.16.5,
+-    @testing-library/react: ^13.4.0,
+-    @testing-library/user-event: ^13.5.0,
+-    axios: ^1.2.1,
+-    bootstrap: ^5.2.3,
+-    dotenv: ^16.0.3,
+-    formik: ^2.2.9,
+-    framer-motion: ^7.7.2,
+-    framer-motion-3d: ^8.0.2,
+-    react: ^18.2.0,
+-    react-bootstrap: ^2.7.0,
+-    react-dom: ^18.2.0,
+-    react-google-recaptcha-v3: ^1.10.1,
+-    react-helmet: ^6.1.0,
+-    react-icons: ^4.7.1,
+-    react-router-dom: ^6.4.5,
+-    react-scripts: 5.0.1,
+-    styled-components: ^5.3.6,
+-    swiper: ^8.4.5,
+-    three: ^0.148.0,
+-    web-vitals: ^2.1.4
